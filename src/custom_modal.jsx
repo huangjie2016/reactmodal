@@ -30,11 +30,13 @@ class CustomModal extends Component {
 
     hideModal() {
         const {hideModal} = this.props;
+        console.log('hideModal')
         hideModal();
     }
 
     handleSubmit() {
         const {handleSubmit} = this.props;
+        console.log('handleSubmit')
         handleSubmit();
     }
 }

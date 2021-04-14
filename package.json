@@ -1,6 +1,6 @@
 {
-  "name": "react-component-modal",
-  "version": "0.0.1",
+  "name": "reactmodal",
+  "version": "0.0.2",
   "description": "a modal component of react",
   "main": "dist/bundle.js",
   "files": [
